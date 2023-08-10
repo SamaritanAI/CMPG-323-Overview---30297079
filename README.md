@@ -9,7 +9,7 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
 1. [Project structure](#project-structure)
 2. [Branching Strategy](#branching-strategy)
 3. [Upcoming Virtual Classes](#upcoming-virtual-classes)
-4. [.gitignore usage](#git-ignore)
+4. [GitIgnore](#git-ignore)
 5. [Submission strategies](#submission-strategies)
 6. [Storage of sensitive information](#storage-of-sensitive-information)
 
