@@ -5,19 +5,23 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
 
 # **Table of Contents**
 1. [Project structure](#project-structure)
-2. [Branching Strategy](#branching-strategy)
-3. [Upcoming Virtual Classes](#upcoming-virtual-classes)
-4. [GitIgnore](#git-ignore)
-5. [Submission strategies](#submission-strategies)
-6. [Storage of sensitive information](#storage-of-sensitive-information)
+2. [Burndown Chart](#burndown-chart)
+3. [Branching Strategy](#branching-strategy)
+4. [Upcoming Virtual Classes](#upcoming-virtual-classes)
+5. [GitIgnore](#git-ignore)
+6. [Submission strategies](#submission-strategies)
+7. [Storage of sensitive information](#storage-of-sensitive-information)
 
 Diagram showing Project integrated with the repository
 ![Readme diagram](https://github.com/SamaritanAI/CMPG-323-Overview-30297079/assets/33179496/7616bde2-35fd-48fc-9260-7e389018e002)
 
 
-
 ## Project Structure
 The project consists of Class work, projects and other forms of participation including attending class, being active on internet forums and completion of certifications.
+
+## Burndown chart
+![Burndown chart](https://github.com/SamaritanAI/CMPG-323-Overview-30297079/assets/33179496/e1ffe136-e80c-45bc-8735-1b814c3f9fbc)
+
 
 
 ## Branching Strategy
