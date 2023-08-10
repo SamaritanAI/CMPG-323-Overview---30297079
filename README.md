@@ -11,7 +11,7 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
 5. [Submission strategies](#submission-strategies)
 6. [Storage of sensitive information](#storage-of-sensitive-information)
 
-[Readme-diagram.png](#Readme-diagram)
+[Readme diagram.png](#Readme diagram)
 
 
 ## Project Structure
