@@ -11,7 +11,9 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
 5. [Submission strategies](#submission-strategies)
 6. [Storage of sensitive information](#storage-of-sensitive-information)
 
-[Readme diagram.png](#Readme diagram.png)
+Diagram showing Project integrated with the repository
+![Readme diagram](https://github.com/SamaritanAI/CMPG-323-Overview-30297079/assets/33179496/7616bde2-35fd-48fc-9260-7e389018e002)
+
 
 
 ## Project Structure
