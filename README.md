@@ -1,7 +1,5 @@
 # CMPG-323-Overview-30297079
 
-# **CMPG 323 Course Project Overview**
-
 Welcome to the CMPG 323 Course Project Overview repository! This repository tracks the progress of the CMPG 323 course project and related tasks.
  The portfio consistes of 5 main projects and other exercises that consist of contributing to online communities and to also complete training on various certifications and obtaining proof of obtaining the necessary skills.
 
