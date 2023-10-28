@@ -4,13 +4,18 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
  The portfio consistes of 5 main projects and other exercises that consist of contributing to online communities and to also complete training on various certifications and obtaining proof of obtaining the necessary skills.
 
 # **Table of Contents**
-1. [Project structure](#project-structure)
-2. [Burndown Chart](#burndown-chart)
-3. [Branching Strategy](#branching-strategy)
-4. [Upcoming Virtual Classes](#upcoming-virtual-classes)
-5. [GitIgnore](#git-ignore)
-6. [Submission strategies](#submission-strategies)
-7. [Storage of sensitive information](#storage-of-sensitive-information)
+- [CMPG-323-Overview-30297079](#cmpg-323-overview-30297079)
+- [**Table of Contents**](#table-of-contents)
+  - [Project Structure](#project-structure)
+  - [Burndown chart](#burndown-chart)
+  - [Branching Strategy](#branching-strategy)
+  - [Upcoming Virtual Classes](#upcoming-virtual-classes)
+  - [Git Ignore](#git-ignore)
+  - [Submission strategies](#submission-strategies)
+  - [Storage of sensitive information](#storage-of-sensitive-information)
+  - [Course Work and Community Participation](#course-work-and-community-participation)
+  - [Project 2](#project-2)
+- [Overview](#overview)
 
 Diagram showing Project integrated with the repository
 ![Readme diagram](https://github.com/SamaritanAI/CMPG-323-Overview-30297079/assets/33179496/7616bde2-35fd-48fc-9260-7e389018e002)
@@ -65,3 +70,21 @@ I might use environment variables, on Heroku, to store sensitive information lik
 - CMPG 323 Course Work for Week 33 is still pending.
 - Participate in online communities during Week 33.
 
+
+
+## Project 2
+# Overview
+Project 2 involved creating a web app with the following functionality:
+Functional requirements for a CRUD RESTful API outline the essential operations it must perform. A web app was created and was hosted on Azure. API with the following funcitonality was created:
+
+1. Create: Let users create new items via POST requests with required data.
+2. Read: Enable users to retrieve item details with GET requests using appropriate parameters.
+3. Update: Provide the ability to modify item information with PUT or PATCH requests.
+4. Delete: Allow users to delete items from the system through DELETE requests.
+
+Careful attention was paid to the:
+ - Performance
+ - Scalability
+ - Security
+ - Reliability
+ - Maintainability
