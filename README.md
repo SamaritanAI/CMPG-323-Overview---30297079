@@ -76,15 +76,15 @@ I might use environment variables, on Heroku, to store sensitive information lik
 - Participate in online communities during Week 33.
 
 
-## Project 1 Review
+# Project 1 Review
 
 **Problems Encountered**
     - 
 
 
 
-## Project 2 Review
-# Overview
+# Project 2 Review
+## Overview
 Project 2 involved creating a web app with the following functionality:
 Functional requirements for a CRUD RESTful API outline the essential operations it must perform. A web app was created and was hosted on Azure. API with the following funcitonality was created:
 
@@ -104,15 +104,15 @@ Careful attention was paid to the:
     - 
 
 
-## Project 3 Review
-# Overview
+# Project 3 Review
+## Overview
 Project 3 centred around good software practices and design patterns. The MVC design pattern was used which involved creating controllers for the different views. It also made sure that the code was loosely coupled and highly cohesive, which made it more maintainable and more secure. 
 
 **Problems Encountered**
     - 
 
-## Project 4 Review
-# Overview
+# Project 4 Review
+## Overview
 Testing is a crucial part of any solution and can be done from many different perspectives; internal development team testing, business user acceptance testing; after all, we can't forsee all that the software could enounter, making it paramount to test if the software is up to standard. Testing all the scenarios can be laborious and if not done correctly it could impede business functions so this proces is usually automated. Project 4 was centred around Robotic Process Automation which aims to using technology to mimic human tasks in the same way a person would execute the process. 
 Benefits of RPA:
     - Efficiency
