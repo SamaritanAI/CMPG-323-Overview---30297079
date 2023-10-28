@@ -16,6 +16,8 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
   - [Course Work and Community Participation](#course-work-and-community-participation)
   - [Project 2](#project-2)
 - [Overview](#overview)
+  - [Project 3](#project-3)
+- [Overview](#overview-1)
 
 Diagram showing Project integrated with the repository
 ![Readme diagram](https://github.com/SamaritanAI/CMPG-323-Overview-30297079/assets/33179496/7616bde2-35fd-48fc-9260-7e389018e002)
@@ -88,3 +90,8 @@ Careful attention was paid to the:
  - Security
  - Reliability
  - Maintainability
+
+
+## Project 3
+# Overview
+Project 3 centred around good software practices and design patterns. The MVC design pattern was used which involved creating controllers for the different views. It also made sure that the code was loosely coupled and highly cohesive, which made it more maintainable and more secure. 
