@@ -14,10 +14,13 @@ Welcome to the CMPG 323 Course Project Overview repository! This repository trac
   - [Submission strategies](#submission-strategies)
   - [Storage of sensitive information](#storage-of-sensitive-information)
   - [Course Work and Community Participation](#course-work-and-community-participation)
-  - [Project 2](#project-2)
+  - [Project 1 Review](#project-1-review)
+  - [Project 2 Review](#project-2-review)
 - [Overview](#overview)
-  - [Project 3](#project-3)
+  - [Project 3 Review](#project-3-review)
 - [Overview](#overview-1)
+  - [Project 4 Review](#project-4-review)
+- [Overview](#overview-2)
 
 Diagram showing Project integrated with the repository
 ![Readme diagram](https://github.com/SamaritanAI/CMPG-323-Overview-30297079/assets/33179496/7616bde2-35fd-48fc-9260-7e389018e002)
@@ -73,8 +76,14 @@ I might use environment variables, on Heroku, to store sensitive information lik
 - Participate in online communities during Week 33.
 
 
+## Project 1 Review
 
-## Project 2
+**Problems Encountered**
+    - 
+
+
+
+## Project 2 Review
 # Overview
 Project 2 involved creating a web app with the following functionality:
 Functional requirements for a CRUD RESTful API outline the essential operations it must perform. A web app was created and was hosted on Azure. API with the following funcitonality was created:
@@ -91,7 +100,26 @@ Careful attention was paid to the:
  - Reliability
  - Maintainability
 
+**Problems Encountered**
+    - 
 
-## Project 3
+
+## Project 3 Review
 # Overview
 Project 3 centred around good software practices and design patterns. The MVC design pattern was used which involved creating controllers for the different views. It also made sure that the code was loosely coupled and highly cohesive, which made it more maintainable and more secure. 
+
+**Problems Encountered**
+    - 
+
+## Project 4 Review
+# Overview
+Testing is a crucial part of any solution and can be done from many different perspectives; internal development team testing, business user acceptance testing; after all, we can't forsee all that the software could enounter, making it paramount to test if the software is up to standard. Testing all the scenarios can be laborious and if not done correctly it could impede business functions so this proces is usually automated. Project 4 was centred around Robotic Process Automation which aims to using technology to mimic human tasks in the same way a person would execute the process. 
+Benefits of RPA:
+    - Efficiency
+    - Accuracy
+    - Cost Savings
+    - Scalability
+    - Consistency
+
+**Problems Encountered**
+    - 
